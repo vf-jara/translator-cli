@@ -1,7 +1,8 @@
 {
-  "name": "translator-cli",
+  "name": "azure-translator-cli-tool",
   "version": "1.0.0",
   "description": "the package uses the azure translator to translate json language files",
+  "github": "https://github.com/vf-jara/translator-cli.git",
   "main": "./src/index.js",
   "bin": {
     "translate": "bin/translator.js"
