@@ -61,6 +61,6 @@ Uma vez corretamente configurado, basta executar novamente o comando ```translat
 ## Referência
 
  - [Azure Translate API](https://learn.microsoft.com/en-us/azure/ai-services/translator/)
- 
+ - [Github Repo](https://github.com/vf-jara/translator-cli)
 
 
